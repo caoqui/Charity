@@ -3176,7 +3176,7 @@
 75/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/asn1.js/node_modules1699779572473436100 1
 81/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@swc/helpers/esm/_using.js1699779598005684300 0
 95/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/runtime/helpers/classCallCheck.js1699779586623947800 0
-59/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@swc1699780387275680800 1
+59/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@swc1699785233804526100 1
 93/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/ajv/lib/vocabularies/jtd/properties.ts1699779603234875100 0
 72/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/lmdb/node_modules1699779572477445300 1
 89/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/workers/test/workerfarm.js1699779591878210500 0
@@ -3612,7 +3612,7 @@
 123/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/transformer-html/node_modules/semver/functions/prerelease.js1699779589363113700 0
 110/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/helper-module-transforms/lib/lazy-modules.js.map1699779590125721900 0
 122/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@near-js/keystores-browser/lib/browser_local_storage_key_store.d.ts1699779585482294300 0
-62/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel1699780387283008700 1
+62/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel1699785233812397900 1
 118/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/transformer-html/node_modules/semver/functions/minor.js1699779588222554100 0
 60/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/touch1699779577353803800 1
 128/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeHiddenElems.js1699779593209038900 0
@@ -4132,7 +4132,7 @@
 97/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/json-parse-even-better-errors/package.json1699779576755339800 0
 82/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/transformer-svg/src1699779584252374900 1
 109/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/plugin-transform-shorthand-properties/README.md1699779585582529200 0
-59/mnt/d/FILE_CODE/Charity/charity/frontend/package-lock.json1699780387363436200 0
+59/mnt/d/FILE_CODE/Charity/charity/frontend/package-lock.json1699785233894415600 0
 91/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/ajv/dist/vocabularies/draft2020.d.ts1699779602137410300 0
 84/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/optimizer-swc/LICENSE1699779582430108000 0
 80/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/optimizer-swc/lib1699779582819041000 1
@@ -7378,7 +7378,7 @@
 109/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/regenerate-unicode-properties/Binary_Property/Cased.js1699779591615724400 0
 125/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/transformer-posthtml/node_modules/semver/functions/rcompare.js1699779589818814800 0
 67/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/mdn-data/css1699779593325384200 1
-54/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules1699780387265297300 1
+54/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules1699785233796008200 1
 87/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/traverse/lib/cache.js.map1699779586590299500 0
 84/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/stream-browserify/security.md1699779581998291600 0
 79/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/qrcode/helper/to-sjis.js1699779590324807500 0
@@ -7740,7 +7740,7 @@
 93/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/helper-remap-async-to-generator1699779588054728100 1
 86/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/bundler-default/LICENSE1699779584246079300 0
 81/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/ignore-by-default/index.js1699779578376025400 0
-73/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/.package-lock.json1699780387406020300 0
+73/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/.package-lock.json1699785233937280300 0
 124/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeViewBox.js1699779594057316500 0
 70/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/gensync/LICENSE1699779577664018500 0
 93/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/plugin-transform-spread/LICENSE1699779586861173300 0
@@ -9774,7 +9774,7 @@
 97/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/v8-compile-cache-lib/v8-compile-cache.d.ts1699779579636916200 0
 72/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@lezer/lr/LICENSE1699779585038036900 0
 134/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/cleanupEnableBackground.js1699779584866425300 0
-60/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@lmdb1699780387288006700 1
+60/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@lmdb1699785233816436700 1
 71/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@tsconfig/node101699779577859546600 1
 95/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@swc/helpers/cjs/_async_to_generator.cjs1699779584044493100 0
 70/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/js-sha256/build1699779579099282400 1
@@ -14602,7 +14602,7 @@
 99/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js1699779595831668900 0
 94/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/http-errors/node_modules/depd/Readme.md1699779580632429400 0
 100/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/core/node_modules/lru-cache/README.md1699779579583599800 0
-72/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@msgpackr-extract1699780387285009100 1
+72/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@msgpackr-extract1699785233814397900 1
 95/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/@parcel/optimizer-svgo/node_modules/.bin1699779613671569400 1
 71/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/https-browserify1699779577642892200 1
 97/mnt/d/FILE_CODE/Charity/charity/frontend/node_modules/csso/node_modules/css-tree/dist/version.js1699779602187341100 0

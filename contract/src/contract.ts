@@ -1,4 +1,4 @@
-import { NearBindgen, near, call, view, initialize, UnorderedMap, NearPromise, ONE_NEAR } from 'near-sdk-js';
+import { NearBindgen, near, call, view, initialize, UnorderedMap, NearPromise } from 'near-sdk-js';
 
 @NearBindgen({})
 class charity {
